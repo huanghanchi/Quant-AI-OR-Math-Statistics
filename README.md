@@ -1,4 +1,19 @@
-[toc]
+- [Quant-AI-OR-Math-Statistics](#quant-ai-or-math-statistics)
+  * [量化交易、人工智能、运筹优化、数理计量资源库](#----------------------)
+    + [量化交易](#----)
+      - [人工智能for量化交易综述](#----for------)
+      - [强化学习篇](#-----)
+      - [机器学习篇](#-----)
+      - [统计学、时间序列综述](#----------)
+      - [经济金融(尽量偏量化、计量)的各类资源](#-------------------)
+      - [其他量化相关文章](#--------)
+    + [人工智能](#----)
+      - [人工智能不错的综述](#---------)
+    + [运筹优化](#----)
+      - [运筹优化不错的综述](#---------)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 # Quant-AI-OR-Math-Statistics
 
