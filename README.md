@@ -50,6 +50,8 @@ Comprehensive Review of Deep Reinforcement Learning Methods and Applications in 
 
 #### 机器学习篇
 
+Jiang W. Applications of deep learning in stock market prediction: recent progress[J]. Expert Systems with Applications, 2021: 115537. https://www.sciencedirect.com/science/article/abs/pii/S0957417421009441
+
 金融时序预测中的深度学习方法综述: 从2005到2019 https://mp.weixin.qq.com/s/caXnseARUwLIXdsZ7BXOUw
 
 Deep Learning for Financial Applications https://mp.weixin.qq.com/s/1zTLxotph7vWvp8LImR-Gg
