@@ -283,6 +283,8 @@ GitHubdaily、Paperweekly、CozyClub、AI数据派、集智俱乐部、人工智
 
 #### 运筹优化不错的综述
 
+优化er必备科研推文集 https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg3NTA4MTc0NA==&action=getalbum&album_id=1733568231744782344#wechat_redirect
+
 A Survey on Non/Non-Smooth Convex optimization https://mp.weixin.qq.com/s?__biz=Mzg3NTA4MTc0NA==&mid=2247503034&idx=2&sn=73069694cca13e585618703d4908395c&chksm=cec475c5f9b3fcd380de7ea5afac5103db89ddfafa221c3b3e6dab51704caf03f54751e81ade&scene=178&cur_album_id=1733568231744782344#rd
 
 凸优化综述！！！https://mp.weixin.qq.com/s/ow_Fh8-5wjBqxGqO4IIF5A
