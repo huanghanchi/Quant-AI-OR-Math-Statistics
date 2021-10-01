@@ -4,8 +4,8 @@
     + [量化交易](#----)
       - [量化入门必读](#------)
       - [人工智能for量化交易综述](#----for------)
-      - [强化学习篇](#-----)
-      - [机器学习篇](#-----)
+        * [强化学习篇](#-----)
+        * [机器学习篇](#-----)
       - [统计学、时间序列综述](#----------)
       - [经济金融(尽量偏量化、计量)的各类资源](#-------------------)
       - [其他量化相关文章](#--------)
@@ -28,6 +28,7 @@
       - [大视野](#---)
     + [附录](#--)
       - [时间序列分析学习资料](#----------)
+
 
 
 # 前言
@@ -120,7 +121,7 @@ https://www.zhihu.com/question/37745951
 
 #### 人工智能for量化交易综述
 
-#### 强化学习篇
+##### 强化学习篇
 
 【强化学习 158】RL Finance Application综述 https://mp.weixin.qq.com/s/iysHTXxm4j_8LTI2dPtmdg
 
@@ -145,7 +146,7 @@ Reinforcement learning in Portfolio Management and its interpretation
 
 Comprehensive Review of Deep Reinforcement Learning Methods and Applications in Economics 
 
-#### 机器学习篇
+##### 机器学习篇
 
 Jiang W. Applications of deep learning in stock market prediction: recent progress[J]. Expert Systems with Applications, 2021: 115537. https://www.sciencedirect.com/science/article/abs/pii/S0957417421009441
 
