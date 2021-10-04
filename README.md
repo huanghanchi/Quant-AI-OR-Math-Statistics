@@ -43,6 +43,33 @@
 
 #### 量化入门必读
 
+Awesome-Quant-Machine-Learning-Trading
+https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading
+
+Awesome Quant 
+一份精心挑选的中文Quant相关资源索引。
+https://github.com/thuquant/awesome-quant
+
+The Top 80 Quantitative Finance Open Source Projects
+
+Awesome Stock Resources
+https://github.com/neutraltone/awesome-stock-resources
+
+Awesome Investing
+https://github.com/mr-karan/awesome-investing
+
+awesome-quant
+https://github.com/wilsonfreitas/awesome-quant
+
+awesome-algorithmic-trading
+https://github.com/joelowj/awesome-algorithmic-trading
+
+awesome-deep-trading
+https://github.com/cbailes/awesome-deep-trading
+
+Awesome AI in Finance
+https://github.com/georgezouq/awesome-ai-in-finance
+
 近十年量化交易领域最重要的十本参考书是哪些？ - 知乎
 https://www.zhihu.com/question/23857983
 
@@ -122,6 +149,8 @@ https://www.zhihu.com/question/37745951
 #### 人工智能for量化交易综述
 
 ##### 强化学习篇
+
+2021年9月底 Reinforcement Learning for Quantitative Trading https://arxiv.org/pdf/2109.13851.pdf
 
 【强化学习 158】RL Finance Application综述 https://mp.weixin.qq.com/s/iysHTXxm4j_8LTI2dPtmdg
 
